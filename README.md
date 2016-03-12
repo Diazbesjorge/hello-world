@@ -1,2 +1,2 @@
 # hello-world
-trial
+trial project learning how to use github
